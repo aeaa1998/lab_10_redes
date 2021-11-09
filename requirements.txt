@@ -1,0 +1,4 @@
+matplotlib
+windrose
+numpy
+kafka-python
